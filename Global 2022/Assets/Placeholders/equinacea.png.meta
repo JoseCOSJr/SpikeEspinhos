@@ -1,0 +1,1596 @@
+fileFormatVersion: 2
+guid: 48f558709fe51234f837164f5cb42ee4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5351931377996465353
+    second: equinacea_0
+  - first:
+      213: 173597766786325372
+    second: equinacea_1
+  - first:
+      213: 2640871414222464717
+    second: equinacea_2
+  - first:
+      213: 653493786638408152
+    second: equinacea_3
+  - first:
+      213: 6502589591797833959
+    second: equinacea_4
+  - first:
+      213: -3667506794428212884
+    second: equinacea_5
+  - first:
+      213: -7491858188907843184
+    second: equinacea_6
+  - first:
+      213: 1866675766415564286
+    second: equinacea_7
+  - first:
+      213: 3753242600589081898
+    second: equinacea_8
+  - first:
+      213: -9018759831788859099
+    second: equinacea_9
+  - first:
+      213: -7927806326505545961
+    second: equinacea_10
+  - first:
+      213: -454510564889404680
+    second: equinacea_11
+  - first:
+      213: -5724904060934324729
+    second: equinacea_12
+  - first:
+      213: -4284282462373160501
+    second: equinacea_13
+  - first:
+      213: -3018286209679790077
+    second: equinacea_14
+  - first:
+      213: -7064434066143071575
+    second: equinacea_15
+  - first:
+      213: -2822232535883705868
+    second: equinacea_16
+  - first:
+      213: -8563903945908611405
+    second: equinacea_17
+  - first:
+      213: 4421877530075138473
+    second: equinacea_18
+  - first:
+      213: -3424257413313397302
+    second: equinacea_19
+  - first:
+      213: 2236690007996986971
+    second: equinacea_20
+  - first:
+      213: 4829197156363311276
+    second: equinacea_21
+  - first:
+      213: 5659834974900293085
+    second: equinacea_22
+  - first:
+      213: -6866568896686952057
+    second: equinacea_23
+  - first:
+      213: -4186531097469299179
+    second: equinacea_24
+  - first:
+      213: 9008239756317376601
+    second: equinacea_25
+  - first:
+      213: -781719313169740218
+    second: equinacea_26
+  - first:
+      213: -7184612367896248772
+    second: equinacea_27
+  - first:
+      213: 3221572898676807417
+    second: equinacea_28
+  - first:
+      213: -2142518823770106511
+    second: equinacea_29
+  - first:
+      213: -4492889747327539048
+    second: equinacea_30
+  - first:
+      213: 4951100723421685251
+    second: equinacea_31
+  - first:
+      213: -8774793429441041198
+    second: equinacea_32
+  - first:
+      213: 6461234365634661154
+    second: equinacea_33
+  - first:
+      213: -2417719203485449557
+    second: equinacea_34
+  - first:
+      213: -3746048486338171651
+    second: equinacea_35
+  - first:
+      213: 5324840580897802313
+    second: equinacea_36
+  - first:
+      213: -2570524470378231579
+    second: equinacea_37
+  - first:
+      213: 6501222274336685796
+    second: equinacea_38
+  - first:
+      213: -5174259591133976321
+    second: equinacea_39
+  - first:
+      213: -5304695115683872070
+    second: equinacea_40
+  - first:
+      213: 5329145584469052446
+    second: equinacea_41
+  - first:
+      213: 3151873331565970327
+    second: equinacea_42
+  - first:
+      213: 4360785893767485897
+    second: equinacea_43
+  - first:
+      213: 8938212658086381193
+    second: equinacea_44
+  - first:
+      213: -9138347296016015057
+    second: equinacea_45
+  - first:
+      213: -3988742497410083006
+    second: equinacea_46
+  - first:
+      213: -3397221297542018883
+    second: equinacea_47
+  - first:
+      213: 9167258790845361074
+    second: equinacea_48
+  - first:
+      213: 5993482210462516446
+    second: equinacea_49
+  - first:
+      213: -2665287867708438672
+    second: equinacea_50
+  - first:
+      213: -2906661588375504176
+    second: equinacea_51
+  - first:
+      213: -2188422921180821276
+    second: equinacea_52
+  - first:
+      213: -552747679594667013
+    second: equinacea_53
+  - first:
+      213: 8104275115218757329
+    second: equinacea_54
+  - first:
+      213: -3429462989226958598
+    second: equinacea_55
+  - first:
+      213: -647157219561110792
+    second: equinacea_56
+  - first:
+      213: -8679461098324910095
+    second: equinacea_57
+  - first:
+      213: 1178459495582687090
+    second: equinacea_58
+  - first:
+      213: 6547280336687893294
+    second: equinacea_59
+  - first:
+      213: -3727441592020756568
+    second: equinacea_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 74
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: equinacea_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 226
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf04874ce1ab5b0800000000000000
+      internalID: -5351931377996465353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 226
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b9917cf3eb86200800000000000000
+      internalID: 173597766786325372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 225
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a63e2f8246a420800000000000000
+      internalID: 2640871414222464717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 227
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9d187f22da11900800000000000000
+      internalID: 653493786638408152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 226
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0234318c6dd3a50800000000000000
+      internalID: 6502589591797833959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 226
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6956c270066a1dc0800000000000000
+      internalID: -3667506794428212884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 201
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091fb86bba2970890800000000000000
+      internalID: -7491858188907843184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 201
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd970038b3c7e910800000000000000
+      internalID: 1866675766415564286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 201
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2db9fb7242361430800000000000000
+      internalID: 3753242600589081898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 203
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521d9a767bde6d280800000000000000
+      internalID: -9018759831788859099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 205
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fda8c3626caf190800000000000000
+      internalID: -7927806326505545961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 206
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fada11ac0141b9f0800000000000000
+      internalID: -454510564889404680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 194
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e71d2a61e0d80b0800000000000000
+      internalID: -5724904060934324729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 175
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9dfc0bccb2b84c0800000000000000
+      internalID: -4284282462373160501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 177
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30073911fa4ec16d0800000000000000
+      internalID: -3018286209679790077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 176
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2bf5455a616fd90800000000000000
+      internalID: -7064434066143071575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 195
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f11a11267a65d8d0800000000000000
+      internalID: -2822232535883705868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 195
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b61d851cb6e62980800000000000000
+      internalID: -8563903945908611405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 195
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9096c7f2aad5d30800000000000000
+      internalID: 4421877530075138473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 176
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdf4fb66089a70d0800000000000000
+      internalID: -3424257413313397302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 174
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56735736b15a0f10800000000000000
+      internalID: 2236690007996986971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 174
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca89c5f3a31c40340800000000000000
+      internalID: 4829197156363311276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 174
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd834e2ce5cb8e40800000000000000
+      internalID: 5659834974900293085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 176
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7817a3718fb05b0a0800000000000000
+      internalID: -6866568896686952057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 176
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5165736e52476e5c0800000000000000
+      internalID: -4186531097469299179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 170
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95049d6a452b30d70800000000000000
+      internalID: 9008239756317376601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 152
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e84782d66c625f0800000000000000
+      internalID: -781719313169740218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e7aaafd112b4c90800000000000000
+      internalID: -7184612367896248772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f618a39b7355bc20800000000000000
+      internalID: 3221572898676807417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 151
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17558983b7e3442e0800000000000000
+      internalID: -2142518823770106511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_30
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 151
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8982c83449c06a1c0800000000000000
+      internalID: -4492889747327539048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 150
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306aaba30e7d5b440800000000000000
+      internalID: 4951100723421685251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 157
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc2cb4eddba93680800000000000000
+      internalID: -8774793429441041198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_33
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b43362c6aeaa950800000000000000
+      internalID: 6461234365634661154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 157
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba20c9da139827ed0800000000000000
+      internalID: -2417719203485449557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 158
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc6c64cfbc530cc0800000000000000
+      internalID: -3746048486338171651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9488ffdcb42a5e940800000000000000
+      internalID: 5324840580897802313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 126
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e808a80d99a35cd0800000000000000
+      internalID: -2570524470378231579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 125
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eef1bba63bf83a50800000000000000
+      internalID: 6501222274336685796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_39
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82dc6f0565138b0800000000000000
+      internalID: -5174259591133976321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_40
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 122
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2c9e3d5efe166b0800000000000000
+      internalID: -5304695115683872070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 134
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c8e9e8cade4f940800000000000000
+      internalID: 5329145584469052446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 125
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79344018814bdbb20800000000000000
+      internalID: 3151873331565970327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c99b8b7aaf948c30800000000000000
+      internalID: 4360785893767485897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 96
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986832c4e09ea0c70800000000000000
+      internalID: 8938212658086381193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2160d22d811e2180800000000000000
+      internalID: -9138347296016015057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 72
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2471e55f4d325a8c0800000000000000
+      internalID: -3988742497410083006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 68
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8cd98aa35aad0d0800000000000000
+      internalID: -3397221297542018883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_48
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb2a60dc45a83f70800000000000000
+      internalID: 9167258790845361074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4cd3ac0502d2350800000000000000
+      internalID: 5993482210462516446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077841d3ecef20bd0800000000000000
+      internalID: -2665287867708438672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dafa9e7fa679a7d0800000000000000
+      internalID: -2906661588375504176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 37
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c1bca2f821a1e0800000000000000
+      internalID: -2188422921180821276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3a65bf9ee3458f0800000000000000
+      internalID: -552747679594667013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_54
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6e6ac674b287070800000000000000
+      internalID: 8104275115218757329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af027c4d4991860d0800000000000000
+      internalID: -3429462989226958598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_56
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f20b3600f5d407f0800000000000000
+      internalID: -647157219561110792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 4
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff9588ed1c5c8780800000000000000
+      internalID: -8679461098324910095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f5460eaaaba5010800000000000000
+      internalID: 1178459495582687090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b8e29f6cc9cda50800000000000000
+      internalID: 6547280336687893294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equinacea_60
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a71692fe97754cc0800000000000000
+      internalID: -3727441592020756568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

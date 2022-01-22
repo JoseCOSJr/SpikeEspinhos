@@ -1,0 +1,1188 @@
+fileFormatVersion: 2
+guid: 9b522602e6187ac4987d064ce77d4291
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8974760454430630594
+    second: Funkyman_0
+  - first:
+      213: 8445272461606185143
+    second: Funkyman_1
+  - first:
+      213: -56923854299184738
+    second: Funkyman_2
+  - first:
+      213: 6777955036959298979
+    second: Funkyman_3
+  - first:
+      213: 5750661136128879622
+    second: Funkyman_4
+  - first:
+      213: 7836570265910259965
+    second: Funkyman_5
+  - first:
+      213: -2574766610080048634
+    second: Funkyman_6
+  - first:
+      213: -1657945408918211780
+    second: Funkyman_7
+  - first:
+      213: -1371952586493215748
+    second: Funkyman_8
+  - first:
+      213: 5186672155167328726
+    second: Funkyman_9
+  - first:
+      213: -7721443617340429479
+    second: Funkyman_10
+  - first:
+      213: 5785089473521888512
+    second: Funkyman_11
+  - first:
+      213: 2131197539338292760
+    second: Funkyman_12
+  - first:
+      213: 3379229315032604145
+    second: Funkyman_13
+  - first:
+      213: -2375453434775488615
+    second: Funkyman_14
+  - first:
+      213: 2940761442616280240
+    second: Funkyman_15
+  - first:
+      213: -115060570362454727
+    second: Funkyman_16
+  - first:
+      213: 4227706076249287365
+    second: Funkyman_17
+  - first:
+      213: -3089800218511156899
+    second: Funkyman_18
+  - first:
+      213: -3321375698701128243
+    second: Funkyman_19
+  - first:
+      213: -5230564295405531595
+    second: Funkyman_20
+  - first:
+      213: -5939561624771445193
+    second: Funkyman_21
+  - first:
+      213: 8740246147364829139
+    second: Funkyman_22
+  - first:
+      213: 8698250956604747799
+    second: Funkyman_23
+  - first:
+      213: 643580247063588994
+    second: Funkyman_24
+  - first:
+      213: -7012566656543588803
+    second: Funkyman_25
+  - first:
+      213: 7335214156034765720
+    second: Funkyman_26
+  - first:
+      213: -8937669190710843141
+    second: Funkyman_27
+  - first:
+      213: 1214509492826876965
+    second: Funkyman_28
+  - first:
+      213: 4695240452313416973
+    second: Funkyman_29
+  - first:
+      213: 3354275773762708334
+    second: Funkyman_30
+  - first:
+      213: -2241399280199385662
+    second: Funkyman_31
+  - first:
+      213: -2841427603074931100
+    second: Funkyman_32
+  - first:
+      213: -4205162728082147656
+    second: Funkyman_33
+  - first:
+      213: 9195054592284385613
+    second: Funkyman_34
+  - first:
+      213: 8396574754415547296
+    second: Funkyman_35
+  - first:
+      213: 960486866199887370
+    second: Funkyman_36
+  - first:
+      213: 1771427901815174284
+    second: Funkyman_37
+  - first:
+      213: 7199018917147162490
+    second: Funkyman_38
+  - first:
+      213: -2459054882497552890
+    second: Funkyman_39
+  - first:
+      213: -3222254319987453809
+    second: Funkyman_40
+  - first:
+      213: 1459843137810854327
+    second: Funkyman_41
+  - first:
+      213: 4267062055734258268
+    second: Funkyman_42
+  - first:
+      213: 119062285440309116
+    second: Funkyman_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 74
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Funkyman_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 165
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2af8e3511cc8c70800000000000000
+      internalID: 8974760454430630594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 165
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8ec611f82a33570800000000000000
+      internalID: 8445272461606185143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 165
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91404d5e04c53ff0800000000000000
+      internalID: -56923854299184738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 165
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a55789e132201e50800000000000000
+      internalID: 6777955036959298979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 165
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c2b92c5d37ecf40800000000000000
+      internalID: 5750661136128879622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 165
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df038fc032711cc60800000000000000
+      internalID: 7836570265910259965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 165
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a54aae867944cd0800000000000000
+      internalID: -2574766610080048634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 166
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33b07c4f6bcdf8e0800000000000000
+      internalID: -1657945408918211780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 165
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbb4693468d5fce0800000000000000
+      internalID: -1371952586493215748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 165
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9882f48d2caf740800000000000000
+      internalID: 5186672155167328726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 166
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b6733a0fbe7d490800000000000000
+      internalID: -7721443617340429479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 165
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00daf17b934c84050800000000000000
+      internalID: 5785089473521888512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 133
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e0276ded8839d10800000000000000
+      internalID: 2131197539338292760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 133
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdda19782f65ee20800000000000000
+      internalID: 3379229315032604145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 133
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997b9bfcfa1b80fd0800000000000000
+      internalID: -2375453434775488615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 133
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b40f4483feafc820800000000000000
+      internalID: 2940761442616280240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 158
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d54e75509376ef0800000000000000
+      internalID: -115060570362454727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 111
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca6999e644dbaa30800000000000000
+      internalID: 4227706076249287365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 159
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59d7bc5213de15d0800000000000000
+      internalID: -3089800218511156899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 134
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcded41466a18e1d0800000000000000
+      internalID: -3321375698701128243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 158
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e038d6c7d4967b0800000000000000
+      internalID: -5230564295405531595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_21
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 108
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb4f1eb20729da0800000000000000
+      internalID: -5939561624771445193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 158
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7382f20979b4970800000000000000
+      internalID: 8740246147364829139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 143
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710b0a3e82566b870800000000000000
+      internalID: 8698250956604747799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 146
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280feaa23d47ee800800000000000000
+      internalID: 643580247063588994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e78f0b7cb5eae90800000000000000
+      internalID: -7012566656543588803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 148
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8937ed9496aebc560800000000000000
+      internalID: 7335214156034765720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 149
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf82abf893507f380800000000000000
+      internalID: -8937669190710843141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 102
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c2940f2fdcad010800000000000000
+      internalID: 1214509492826876965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 109
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d058f2f9058d82140800000000000000
+      internalID: 4695240452313416973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 101
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6323d56b08cc8e20800000000000000
+      internalID: 3354275773762708334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 101
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd36e7ea33f4e0e0800000000000000
+      internalID: -2241399280199385662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 70
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466aab746a83198d0800000000000000
+      internalID: -2841427603074931100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 71
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b673f957c244a5c0800000000000000
+      internalID: -4205162728082147656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d416f672f656b9f70800000000000000
+      internalID: 9195054592284385613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_35
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 70
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a393fe8040a68470800000000000000
+      internalID: 8396574754415547296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 70
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eb54747b5545d00800000000000000
+      internalID: 960486866199887370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 37
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84b8e09a40659810800000000000000
+      internalID: 1771427901815174284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_38
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 37
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77bfd7209d08e360800000000000000
+      internalID: 7199018917147162490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 37
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e1b8dec9eafddd0800000000000000
+      internalID: -2459054882497552890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 37
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801e29a4c04843d0800000000000000
+      internalID: -3222254319987453809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 37
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1f1096997624410800000000000000
+      internalID: 1459843137810854327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_42
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 37
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aa692f456a73b30800000000000000
+      internalID: 4267062055734258268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funkyman_43
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 46
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77d0dd848ef6a100800000000000000
+      internalID: 119062285440309116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
