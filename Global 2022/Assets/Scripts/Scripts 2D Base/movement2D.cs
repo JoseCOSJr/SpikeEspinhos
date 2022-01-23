@@ -27,6 +27,9 @@ public class movement2D : MonoBehaviour
     private Collider2D colliderIgnore = null, colliderGround = null;
     [Header("Animations")]
     public string idleAnimation, walkAnimation, jumpAnimation, fallAnimation;
+    private bool movementAnimationsAtived = true;
+    public int jumpInAir = 0;
+    private int countJumpAir = 0;
 
     // Start is called before the first frame update
     void Awake()
@@ -68,6 +71,11 @@ public class movement2D : MonoBehaviour
         }
 
         return obstacleDown;
+    }
+
+    public void SetActivedAnimations(bool can)
+    {
+        movementAnimationsAtived = can;
     }
 
     public float GetMaxVelocityNow()
@@ -533,6 +541,11 @@ public class movement2D : MonoBehaviour
 
         if (obstacleDown)
         {
+            if (countJumpAir > 0)
+            {
+                countJumpAir = 0;
+            }
+
             if (ghostJump != 0.1f)
             {
                 ghostJump = 0.1f;
@@ -589,30 +602,33 @@ public class movement2D : MonoBehaviour
 
     private void LateUpdate()
     {
-        if (obstacleDown || ghostJump > 0f)
+        if (movementAnimationsAtived)
         {
-            if (body2D.velocity.x == 0f)
+            if (obstacleDown || ghostJump > 0f)
             {
-                animatorControll.SetActionAnimation(idleAnimation, false);
+                if (body2D.velocity.x == 0f)
+                {
+                    animatorControll.SetActionAnimation(idleAnimation, false);
+                }
+                else
+                {
+                    animatorControll.SetActionAnimation(walkAnimation, false);
+                }
+                /*animatorControll.NotInGround(body2D.velocity.y <= 0f, true);
+                animatorControll.WalkAnimation(body2D.velocity.sqrMagnitude > 0f && direSpeedGo.sqrMagnitude > 0f);*/
             }
             else
             {
-                animatorControll.SetActionAnimation(walkAnimation, false);
+                if (body2D.velocity.y > 0f)
+                {
+                    animatorControll.SetActionAnimation(jumpAnimation, false);
+                }
+                else
+                {
+                    animatorControll.SetActionAnimation(fallAnimation, false);
+                }
+                //animatorControll.NotInGround(body2D.velocity.y <= 0f, false);
             }
-            /*animatorControll.NotInGround(body2D.velocity.y <= 0f, true);
-            animatorControll.WalkAnimation(body2D.velocity.sqrMagnitude > 0f && direSpeedGo.sqrMagnitude > 0f);*/
-        }
-        else
-        {
-            if (body2D.velocity.y > 0f)
-            {
-                animatorControll.SetActionAnimation(jumpAnimation, false);
-            }
-            else
-            {
-                animatorControll.SetActionAnimation(fallAnimation, false);
-            }
-            //animatorControll.NotInGround(body2D.velocity.y <= 0f, false);
         }
     }
 
@@ -656,19 +672,19 @@ public class movement2D : MonoBehaviour
         return direSpeedGo.sqrMagnitude > 0f;
     }
 
-    public void MakeJump()
+    public void MakeJump(float multPower = 1f)
     {
         /*attribute atb = GetComponent<attribute>();
         skill skillNow = atb.GetActionControll().GetSkillNow();*/
-
-        if (jumpingCount <= 0f && canJump && obstacleDown)
+        
+        if (jumpingCount <= 0f && canJump && (obstacleDown || countJumpAir < jumpInAir))
         {
             if (canMakeMovement)
             {
                 jumpingCount = 0.1f;
                 Vector2 veloAux = body2D.velocity;
 
-                veloAux.y = powerJump * Mathf.Sqrt(body2D.gravityScale);
+                veloAux.y = powerJump *multPower * Mathf.Sqrt(body2D.gravityScale);
 
                 if (veloAux.x > 0f)
                 {
@@ -687,6 +703,11 @@ public class movement2D : MonoBehaviour
 
                 stateVelocity = changeVelocity.wait;
                 goToVelocity = veloAux;
+
+                if (!obstacleDown)
+                {
+                    countJumpAir += 1;
+                }
             }
         }
     }

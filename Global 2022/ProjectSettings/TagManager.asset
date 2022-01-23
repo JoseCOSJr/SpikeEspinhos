@@ -15,7 +15,7 @@ TagManager:
   - Ground Check
   - Hunt Box
   - Hit Box
-  - 
+  - Push Object
   - 
   - 
   - 
@@ -46,4 +46,7 @@ TagManager:
     locked: 0
   - name: Chars
     uniqueID: 3101761559
+    locked: 0
+  - name: Powers
+    uniqueID: 395182729
     locked: 0
