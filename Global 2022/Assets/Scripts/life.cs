@@ -64,7 +64,7 @@ public class life : MonoBehaviour
 
             if (timeGameOver <= 0f)
             {
-                SceneManager.LoadSceneAsync(0);
+                SceneManager.LoadSceneAsync(1);
             }
 
         }
