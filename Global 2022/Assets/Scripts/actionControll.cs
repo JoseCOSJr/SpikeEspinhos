@@ -35,7 +35,7 @@ public class actionControll : MonoBehaviour
 
     public void TryAction(actions act, Vector2 dire)
     {
-        if (canAction && actionsList.Exists(x=>x==act))
+        if (canAction && actionsList.Exists(x=>x==act) && movement.GetAnimaControll())
         {
             if (!actionNow)
             {
@@ -43,10 +43,10 @@ public class actionControll : MonoBehaviour
                 movement.GetAnimaControll().SetActionAnimation(act.actionAnima, true);
                 actionNow = act;
                 movement.SetCanJump(act.canJump);
-                movement.Turn(act.canTurn);
+                movement.SetCanTurn(act.canTurn);
                 movement.SetMultSpeed(act.multSpeed);
 
-                if (dire.sqrMagnitude > 0f)
+                if (dire.x != 0f)
                 {
                     movement.Turn(dire.x > 0f, true);
                 }
@@ -76,7 +76,7 @@ public class actionControll : MonoBehaviour
         {
             movement.SetActivedAnimations(true);
             movement.SetCanJump(true);
-            movement.Turn(true);
+            movement.SetCanTurn(true);
             movement.SetMultSpeed(1f);
         }
     }

@@ -17,7 +17,10 @@ public class hitstun : MonoBehaviour
         mv.SetCanMove(false);
         mv.SetActivedAnimations(false);
         GetComponent<actionControll>().SetCanAction(false);
-        animatorC.SetActionAnimation(animaHitstun, true);
+        if (animatorC)
+        {
+            animatorC.SetActionAnimation(animaHitstun, true);
+        }
     }
 
     public void ResetState()

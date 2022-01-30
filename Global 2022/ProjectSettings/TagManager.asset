@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -41,6 +42,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Itens
+    uniqueID: 2538453141
+    locked: 0
   - name: Environment
     uniqueID: 1736523531
     locked: 0
@@ -49,4 +53,10 @@ TagManager:
     locked: 0
   - name: Powers
     uniqueID: 395182729
+    locked: 0
+  - name: Water
+    uniqueID: 3273601513
+    locked: 0
+  - name: Front
+    uniqueID: 3517503419
     locked: 0

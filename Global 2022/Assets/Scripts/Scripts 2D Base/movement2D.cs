@@ -24,12 +24,15 @@ public class movement2D : MonoBehaviour
     public enum changeVelocity { keep, wait, swicht};
     private changeVelocity stateVelocity = changeVelocity.keep;
     private float timeMoveAgain = 0f;
+    //[SerializeField]
     private Collider2D colliderIgnore = null, colliderGround = null;
     [Header("Animations")]
     public string idleAnimation, walkAnimation, jumpAnimation, fallAnimation;
     private bool movementAnimationsAtived = true;
     public int jumpInAir = 0;
     private int countJumpAir = 0;
+    public AudioClip clipJump, clipJumpLong;
+    private float timeCanMove = 0f;
 
     // Start is called before the first frame update
     void Awake()
@@ -165,7 +168,14 @@ public class movement2D : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-
+        if (timeCanMove > 0f)
+        {
+            timeCanMove -= Time.fixedDeltaTime;
+            if (timeCanMove <= 0f)
+            {
+                SetCanMove(true);
+            }
+        }
         /*if (timeJumpDenfecive > 0f)
         {
             if (attributeX.GetInvulnerable())
@@ -606,28 +616,34 @@ public class movement2D : MonoBehaviour
         {
             if (obstacleDown || ghostJump > 0f)
             {
-                if (body2D.velocity.x == 0f)
+                if (animatorControll)
                 {
-                    animatorControll.SetActionAnimation(idleAnimation, false);
-                }
-                else
-                {
-                    animatorControll.SetActionAnimation(walkAnimation, false);
+                    if (body2D.velocity.x == 0f)
+                    {
+                        animatorControll.SetActionAnimation(idleAnimation, false);
+                    }
+                    else
+                    {
+                        animatorControll.SetActionAnimation(walkAnimation, false);
+                    }
                 }
                 /*animatorControll.NotInGround(body2D.velocity.y <= 0f, true);
                 animatorControll.WalkAnimation(body2D.velocity.sqrMagnitude > 0f && direSpeedGo.sqrMagnitude > 0f);*/
             }
             else
             {
-                if (body2D.velocity.y > 0f)
+                if (animatorControll)
                 {
-                    animatorControll.SetActionAnimation(jumpAnimation, false);
+                    if (body2D.velocity.y > 0f)
+                    {
+                        animatorControll.SetActionAnimation(jumpAnimation, false);
+                    }
+                    else
+                    {
+                        animatorControll.SetActionAnimation(fallAnimation, false);
+                    }
+                    //animatorControll.NotInGround(body2D.velocity.y <= 0f, false);
                 }
-                else
-                {
-                    animatorControll.SetActionAnimation(fallAnimation, false);
-                }
-                //animatorControll.NotInGround(body2D.velocity.y <= 0f, false);
             }
         }
     }
@@ -655,8 +671,12 @@ public class movement2D : MonoBehaviour
             {
                 dire.x = 0f;
             }
-
-            direSpeedGo = dire * maxVelocity * multSpeed * animatorControll.GetAnimator().speed;
+            Vector2 spdX = dire * maxVelocity * multSpeed;
+            if (animatorControll)
+            {
+                spdX *= animatorControll.GetAnimator().speed;
+            }
+            direSpeedGo = spdX;
             /*if(!CompareTag("Player"))
             Debug.Log(direSpeedGo);*/
 
@@ -708,6 +728,18 @@ public class movement2D : MonoBehaviour
                 {
                     countJumpAir += 1;
                 }
+
+                AudioSource ad = repository.repositoryX.GetAudioSource();
+                ad.volume = ad.volume * 0.4f;
+                if (multPower >= 1f)
+                {
+                    ad.PlayOneShot(clipJumpLong);
+                }
+                else
+                {
+
+                    ad.PlayOneShot(clipJump);
+                }
             }
         }
     }
@@ -717,12 +749,13 @@ public class movement2D : MonoBehaviour
         return Vector2.up * powerJump;
     }
 
-    public void AddForceInBody(Vector2 force)
+    public void AddForceInBody(Vector2 force, float timeStopForce)
     {
         SetCanMove(false);
 
         stateVelocity = changeVelocity.wait;
         goToVelocity = force;
+        timeCanMove = timeStopForce;
         //body2D.velocity = force;
     }
 
@@ -818,24 +851,40 @@ public class movement2D : MonoBehaviour
     {
         Vector2 contactNormal = collision.contacts[0].normal;
 
-        if(!obstacleDown && canMakeMovement && ghostJump <= 0f && contactNormal.y > 0f)
+        if(!obstacleDown && canMakeMovement && ghostJump <= 0f && contactNormal.y > 0.25f && body2D.velocity.y*body2D.velocity.y < 0.01f)
         {
-            Vector2 push = contactNormal * 3f;
-            if (push.y < body2D.velocity.y)
+            PlatformEffector2D effector2D = collision.collider.GetComponent<PlatformEffector2D>();
+
+            bool continueAux = true;
+
+            if (effector2D)
             {
-                push.y = body2D.velocity.y;
+                float yMin = collision.collider.bounds.center.y+collision.collider.bounds.extents.y;
+                continueAux = transform.position.y > yMin;
             }
 
-            AddForceInBody(push);
-            timeMoveAgain = 0.5f;
+            if (continueAux)
+            {
+                Vector2 push = contactNormal * 10f;
+                push.x *= -1f;
+                if (push.y < 0f)
+                {
+                    push.y = 1f;
+                }
+
+                AddForceInBody(push, 0f);
+                timeMoveAgain = 0.1f;
+            }
         }
     }
+    
 
     public void GoingDown()
     {
+        //Debug.Log(colliderGround);
         if (colliderGround)
         {
-            Effector2D effector2D = colliderGround.GetComponent<Effector2D>();
+            PlatformEffector2D effector2D = colliderGround.GetComponent<PlatformEffector2D>();
 
             if (effector2D)
             {
@@ -847,6 +896,9 @@ public class movement2D : MonoBehaviour
                 colliderIgnore = colliderGround;
                 colliderGround = null;
                 Physics2D.IgnoreCollision(coll2D, colliderIgnore, true);
+                body2D.velocity = Vector2.down;
+                obstacleDown = false;
+                ghostJump = 0f;
             }
         }
     }

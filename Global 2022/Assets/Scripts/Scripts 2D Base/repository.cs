@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class repository : MonoBehaviour
 {
+    public static float volumeGeral = 1f;
     public static repository repositoryX;
     [SerializeField]
     private AudioSource audioSourceObj = null;
@@ -64,7 +65,7 @@ public class repository : MonoBehaviour
             ad.pitch = 1f;
             ad.loop = false;
         }
-        ad.volume = 1f;
+        ad.volume = volumeGeral;
         ad.priority = Random.Range(1, 256);
 
         return ad;

@@ -64,6 +64,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 1
   hitstunAtived: 1
+  forcePush: {x: 10, y: 0}
 --- !u!198 &1118797863729929114
 ParticleSystem:
   m_ObjectHideFlags: 0
