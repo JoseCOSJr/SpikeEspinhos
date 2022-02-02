@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Objs Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1b60c3edf94aac747861bec146980bb6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: eb5dbc102b782db4eb7fb34622209174, type: 3}
+  - {fileID: 21300000, guid: c33a6962d7eff9b41b6c7c5d3c10147c, type: 3}
+  - {fileID: 21300000, guid: 6e1badf315974ce4da93215ea6b14c57, type: 3}
+  - {fileID: 21300000, guid: 86adfab506024f74c94b4745fadfae5e, type: 3}
+  - {fileID: 21300000, guid: 29408a16d03030147816a22239ad644c, type: 3}
+  - {fileID: 21300000, guid: 53ccad86404dda84ba7bd9eb076fa9f7, type: 3}
+  - {fileID: 21300000, guid: 14587947bdf12ea45bf272b0891be4a1, type: 3}
+  - {fileID: 21300000, guid: 7a01d1c70a49e34418c36204f41bb5d1, type: 3}
+  - {fileID: 21300000, guid: 67986269e4659d14995aaede6a4641cb, type: 3}
+  - {fileID: 21300000, guid: 5202605a86ac67745bfd7c134b0a600a, type: 3}
+  - {fileID: 21300000, guid: 4437788aa1ad59b49954803c1c7ea4aa, type: 3}
+  - {fileID: 21300000, guid: 7fa39b6b73a91914a817ef351a76cbc2, type: 3}
+  - {fileID: 21300000, guid: 5978292cf14103646b3f09e9e574df8a, type: 3}
+  - {fileID: 21300000, guid: 932c043c853d07f48b1212207971d60b, type: 3}
+  - {fileID: 21300000, guid: 1db99a8da6c3d8142a64a0254cc0228a, type: 3}
+  - {fileID: 21300000, guid: 627733efc267c794cb931d34c4362d94, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bush (4)
+  - Bush (2)
+  - Mushroom_1_old
+  - Bush (1)
+  - Sign_2
+  - Tree_2
+  - Mushroom_2_old
+  - Sign_1
+  - Tree_3
+  - Crate
+  - Bush (3)
+  - Tree_1
+  - Mushroom_2
+  - Mushroom_1
+  - Crate_old
+  - Stone
+  m_RenderDataMap: {}
+  m_Tag: Objs Sprite Atlas
+  m_IsVariant: 0

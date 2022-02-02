@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pequenos Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 40e1d4c07edf5a34ebeb7197fb02cb4a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: eb41982051b2f27459ad71f0fc281ef9, type: 3}
+  - {fileID: 21300000, guid: a96b10d06f3900d4b96b5502447b8337, type: 3}
+  - {fileID: 21300000, guid: afdd1811228b5c9459eabc88fa4ff482, type: 3}
+  - {fileID: 21300000, guid: 76d5fcd1f585c644ca568a32162d3761, type: 3}
+  - {fileID: 21300000, guid: 68bf8d82abade7948b0c0770af5491fe, type: 3}
+  - {fileID: 21300000, guid: 418658236ab20dc44b8a5eaa3aab1f87, type: 3}
+  - {fileID: 21300000, guid: 1833645360599334c949de853806a190, type: 3}
+  - {fileID: 21300000, guid: e85d71d3a9f2de646afbf18ebc2a7b60, type: 3}
+  - {fileID: 21300000, guid: 2b1c2a45389d62943b0017497af4717b, type: 3}
+  - {fileID: 21300000, guid: 084054a5230373945b7050be1da4227b, type: 3}
+  - {fileID: 21300000, guid: 8a4763a6ce8b86f4da2f665aba35adf9, type: 3}
+  - {fileID: 21300000, guid: 69d37f881ad93594189f15c724e3dbf9, type: 3}
+  - {fileID: 21300000, guid: 3ab9f589e7e0c904cbef3f6acf808e12, type: 3}
+  - {fileID: 21300000, guid: 20efd9a987515404c851f85a0a396284, type: 3}
+  - {fileID: 21300000, guid: 548264e9e7eaba34cb55a983daa163b8, type: 3}
+  - {fileID: -9156557352089333109, guid: 7a945b9ae71c4a54bb36a6ff1912a610, type: 3}
+  - {fileID: 21300000, guid: 058842ca0ceb4cc46a15c3bd11ed8ac9, type: 3}
+  - {fileID: 21300000, guid: 110b788b1d9edff428aa2f4508a02f76, type: 3}
+  - {fileID: 21300000, guid: 84d6589b0f8433a49a1846121dd747cc, type: 3}
+  - {fileID: 21300000, guid: 5f17b1bb05693954998ddde520638cee, type: 3}
+  - {fileID: 21300000, guid: 55757ddb9cf294d4db896ddf7beb5786, type: 3}
+  - {fileID: 21300000, guid: b1bdc7cd540627c46a3e7b818f7d2e5c, type: 3}
+  - {fileID: 21300000, guid: 9b0123dfbcc3a3746946f8c33f1bd6f1, type: 3}
+  - {fileID: 21300000, guid: 231fc6ffceaaf6745bfb7c7a18cd6ab9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - com sombra
+  - Ativo 44
+  - Ativoccc 66
+  - Ativo 63@2x
+  - com sombra 2
+  - Ativo 43
+  - Ativo 45
+  - Ativo 67_alt
+  - Ativo_78
+  - Ativo 42
+  - Livro-09
+  - Botao-07
+  - Ativo 68
+  - Livro-10
+  - Botao-04
+  - Ativo 62@2x_0
+  - Botao-06
+  - Ativo 58
+  - Ativo_82
+  - Ativo 47
+  - Botao-05
+  - Ativo_83
+  - Ativo 46
+  - Ativo_84
+  m_RenderDataMap: {}
+  m_Tag: Pequenos Sprite Atlas
+  m_IsVariant: 0
